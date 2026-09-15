@@ -1,0 +1,14 @@
+Hey [Operator's Name],
+
+It looks like there was a mistake in the assembly process. In step 4, the impeller was not aligned correctly with the shaft.
+
+Here’s what to do to fix it:
+
+1. Stop the current task.
+2. Carefully disassemble the pump to the point where you can access the impeller and the shaft.
+3. Refer to step 4 of the assembly instructions and realign the impeller with the shaft correctly. Ensure that the impeller is securely positioned.
+4. Reassemble the parts that you had taken apart, following the correct assembly instructions step-by-step.
+
+After you’re done, double-check your work to make sure everything is correct.
+
+If you need any more help, just let us know.

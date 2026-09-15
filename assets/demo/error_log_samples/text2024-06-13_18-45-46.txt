@@ -1,0 +1,19 @@
+
+# Error Log
+Date and Time: 2024-06-13 18:45
+Reported by: Yuchen
+Location: Assembly Line 3, Workstation 7
+
+## Error Description
+Step: S6
+Task: Please prepare the following components: Hex cap screw (big),C26.
+Expected Component: Hex cap screw (big),C26
+Actual Component: ['Drive shaft companion flange', 'Hex cap screw (big)']
+
+## Error Details
+Description:
+The operator mistakenly picked the ['Drive shaft companion flange', 'Hex cap screw (big)'] instead of the Hex cap screw (big),C26 during step S6 of the assembly process.
+
+## Corrective Actions
+Immediate Action Taken:
+- Replace the ['Drive shaft companion flange', 'Hex cap screw (big)'] with the Hex cap screw (big),C26

@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+opencv-python
+Pillow
+matplotlib
+torch
+
+# LLM / API
+openai
+requests
+
+# Speech (recognition / TTS)
+pyttsx3
+pygame
+playsound
+
+# Notebook environment
+ipython
+jupyter
+
+# See third_party/yolov7/requirements.txt for YOLOv7-specific dependencies

@@ -1,0 +1,18 @@
+
+# Error Log
+Date and Time: 2024-07-20 14:31
+Reported by: Yuchen
+Location: location
+
+## Error Description
+Step: S9
+Task: Please follow the instructions to complete the step: Attach the drive shaft companion flange (C8) onto the shaft (C5), ensuring alignment of the front surfaces of both the shaft (C5) and the flange (C8). Secure it in place using the Allen key (T5) with half a turn..
+
+
+## Error Details
+Description:
+The operation performed was not as expected in step S9.
+
+## Corrective Actions
+Immediate Action Taken:
+- Redo the operation according to the instructions for step S9

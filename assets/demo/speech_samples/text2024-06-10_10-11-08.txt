@@ -1,0 +1,16 @@
+Hey [Operator's Name],
+
+It looks like there was an issue during the assembly process. Specifically, in step [Step Number], the [identify the part or process with the error] was not [describe the error in simple terms].
+
+Here’s what to do to fix it:
+1. Stop the current task.
+2. Carefully disassemble the [affected part] if needed.
+3. Refer to the correct assembly instructions for step [Step Number].
+4. [First corrective action based on step details from the correct assembly instructions].
+5. [Second corrective action based on step details from the correct assembly instructions].
+6. Reassemble the [affected part] following the correct sequence.
+7. Verify that the [affected part] is properly installed and secured by [specific check method].
+
+After you’re done, double-check your work to make sure everything is correct.
+
+If you need any more help, just let us know.

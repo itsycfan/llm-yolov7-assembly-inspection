@@ -1,0 +1,19 @@
+
+# Error Log
+Date and Time: 2024-07-20 12:56
+Reported by: Yuchen
+Location: location
+
+## Error Description
+Step: S6
+Task: Please prepare the following components: Hex cap screw (big),C26.
+Expected Component: Hex cap screw (big),C26
+Actual Component: []
+
+## Error Details
+Description:
+The operator mistakenly picked the [] instead of the Hex cap screw (big),C26 during step S6 of the assembly process.
+
+## Corrective Actions
+Immediate Action Taken:
+- Replace the [] with the Hex cap screw (big),C26

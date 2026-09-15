@@ -1,0 +1,21 @@
+names:
+- Allen_key
+- Big_hex_cap_screw
+- Drive_shaft_companion_flange
+- Nut
+- Pump_housing
+- Step12
+- Step6
+- Step9
+- Washer
+- Wrench_size_13
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: cirpe2024
+  url: https://universe.roboflow.com/yuchen-zc7tg/cirpe2024/dataset/1
+  version: 1
+  workspace: yuchen-zc7tg
+test: ../test/images
+train: CIRPe2024-1/train/images
+val: CIRPe2024-1/valid/images

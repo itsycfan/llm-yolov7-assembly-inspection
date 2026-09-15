@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large model weights - not committed, see models/README.md
+models/*.pt
+models/*.pth
+
+# OS junk
+.DS_Store
+
+# Local backups / raw data (kept outside the repo, not tracked)
+*.zip
+!archive/legacy_dev_history.zip
